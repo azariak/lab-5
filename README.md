@@ -1,5 +1,5 @@
 # SmartMeal
-## 
+## Recipe generation, recipe storage, and nutrient management 
 
 
 ### Contributors
