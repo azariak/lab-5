@@ -15,4 +15,5 @@ of each.
 Daniel Rafailov (danielrafailov1): Emma needs to meal prep for the week. She opens the meal planning program, selects
 her dietary preferences and available ingredients and receives a personalized meal plan with recipes.
 
-
+Daniel Rafailov (danielrafailov1): Emma needs to meal prep for the week. She opens the meal planning program, selects
+her dietary preferences and available ingredients and receives a personalized meal plan with recipes.
